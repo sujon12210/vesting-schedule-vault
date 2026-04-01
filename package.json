@@ -1,0 +1,10 @@
+{
+  "name": "vesting-schedule-vault",
+  "version": "1.0.0",
+  "description": "Cliff and Linear Token Vesting Engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
